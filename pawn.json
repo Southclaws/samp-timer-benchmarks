@@ -1,0 +1,5 @@
+{
+    "entry": "main.pwn",
+    "output": "main.amx",
+    "dependencies": ["Southclaws/samp-stdlib"]
+}
